@@ -1,2 +1,2 @@
 # Progress-Bar
-## Basic progressbar using python.
+Basic progressbar using python.
